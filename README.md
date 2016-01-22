@@ -45,6 +45,8 @@ The 'site.yaml' file located in the '/user/config/' folder contains the followin
 title: CPT-363
 metadata:
     description: 'A short description of your course would go here'
+displaymenuentries:
+    enabled: false        # display of additional menu entries
 menu:                     # menu entry for adding external sites/tools
     - text: Grav
       icon: arrow-circle-right
@@ -53,8 +55,8 @@ icon:                     # default font awesome icons for preparation and post 
     preparations: check-circle
     posts: calendar-o
 github:
-    location: page         # menu | page | none
-    tree: https://github.com/hibbitts-design/grav-skeleton-bones-vanilla-course-companion-prototype/edit/master/user/
+    location: none         # menu | page | none
+    tree: https://github.com/hibbitts-design/grav-skeleton-course-companion-bones-vanilla/edit/master/
 rssbutton:
     display: true
 ```
@@ -63,6 +65,8 @@ rssbutton:
 |---------|---------------|------------------------------------------------------------------------------------------------------------------------|
 | title   |               | The course number/id, to be displayed at the top of every page.                                                      |
 | metadata  |  description | The short description of the course companion site                                       |
+| displaymenuentries  |  enabled | Can be set to `true` or `false`. When set to `true`, all defined menu items are added to the navbar.                                       
+|
 | menu  |  text | Text label for external links to be included on navbar                                       |
 | menu  |  icon | Font awesome icon code for external link (optional)                                        |
 | menu  |  url | URL for external link
