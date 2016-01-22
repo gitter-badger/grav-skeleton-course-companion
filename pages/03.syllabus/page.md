@@ -1,12 +1,14 @@
 ---
 title: 'Syllabus'
+process:
+    twig: true  # Enables Twig on this page
 ---
 **Instructor**  
-Some Name (Email: <somename@somewhere.edu>)    
+Some Name (Email: {{'somename@somewhere.edu'|safe_email}})    
 In-person office hours Mondays 4:00pm - 5:15pm Room 2148, and after class by appointment.  
 
 **Teaching Assistant**  
-Another Name (Email: <anothername@somewhere.edu>)  
+Another Name (Email: {{'anothername@somewhere.edu'|safe_email}})  
 Our teaching assistant will not be holding regular office hours.  
 
 **Course Desciption**  
