@@ -1,17 +1,15 @@
 ---
 title: Sidebar
-process:
-    twig: true  # Enables Twig on this page
 ---
 
 ##### Course Facilitators
-Some Name
-{{'somename@somewhere.edu'|safe_email}}
+Some Name  
+<somename@somewhere.edu>   
 Office hours Mon. 4:00-5:15pm  
 Harbour Centre 2146  
 
-Another Name
-{{'anothername@somewhere.edu'|safe_email}}  
+Another Name  
+<anothername@somewhere.edu>  
 
 ##### Canvas LMS
 [Calendar](https://canvas.sfu.ca/calendar)  
