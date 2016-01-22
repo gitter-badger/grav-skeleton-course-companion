@@ -12,5 +12,5 @@ A summary of presented materials will usually be posted the day after class.
 
 Please send your comments and feedback to <somename@somewhere.edu>.
 
-![Image of course companion on Apple iPhone](images/bones-vanilla-course-companion-iphone.png)  
+![Image of course companion on Apple iPhone](images/course-companion-iphone.png)  
 _Figure 1. Course companion viewed on an Apple iPhone_
