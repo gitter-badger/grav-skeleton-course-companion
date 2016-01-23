@@ -1,7 +1,13 @@
-name: Course Companion
+name: Course Companion Bones Vanilla Site
 version: 0.9.10
-description: "The Course Companion Skeleton provides you with sample course companion content and plugins."
+description: "A customized version of the Bones Vanilla theme for Course Websites"
+icon: crosshairs
 author:
-  name: Paul Hibbitts
-  email: pauls@paulhibbitts.org
-  url: http://hibbittsdesign.org
+ name: Paul Hibbitts
+ email: paul@paulhibbitts.org
+ url: http://hibbittsdesign.org
+homepage: https://github.com/hibbitts-design/grav-skeleton-course-companion-bones-vanilla
+demo: http://demo.hibbittsdesign.org/grav-course-companion-bones-vanilla/
+keywords: bones, theme, foundation, foundation6, core, simple, responsive, basic
+bugs: https://github.com/hibbitts-design/grav-skeleton-course-companion-bones-vanilla/issues
+license: MIT
