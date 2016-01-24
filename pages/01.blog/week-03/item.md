@@ -1,19 +1,23 @@
 ---
-title: Week 3 (Jan 19th - 25th)
+title: 'Week 3 (Jan 19th - 25th)'
 date: 01/19/2016
 published: true
 ---
 
-<!--- Your weekly summary content goes here -->
+<!--- Your weekly summary content goes below here -->
+
 ##### Summaries and Questions  
 [Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440792)
 
 ##### Presented Slides  
 [User Research Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#/)  
 
+<!--- Your weekly summary content goes above here -->
+
 ===
 
-<!--- Your weekly materials content goes here -->
+<!--- Your weekly materials content goes below here -->
+
 ##### Summaries and Questions  
 [Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440792)
 

@@ -1,5 +1,5 @@
 ---
-title: Course Welcome
+title: 'Course Welcome'
 date: 01/04/2016
 icon: users
 continue_link: false

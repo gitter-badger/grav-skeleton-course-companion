@@ -1,8 +1,8 @@
 ---
-title: Preparations
+title: 'Preparations'
 ---
 
-<!--- Your course preparations go here. Delete everything below this line to not display the preparation block on the course home page. -->
+<!--- Your weekly preparations content goes below here -->
 
 ### Jan 26th Class Preparations
 

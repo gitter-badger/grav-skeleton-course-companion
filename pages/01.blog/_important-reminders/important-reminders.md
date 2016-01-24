@@ -2,7 +2,7 @@
 title: 'Important Reminders'
 ---
 
-<!--- Your important reminders go here. Delete everything below this line to not display the important reminders block on the course home page. -->
+<!--- Your important reminders content goes below here -->
 
 ###### Important Reminders
 

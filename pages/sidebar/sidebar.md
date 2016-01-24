@@ -1,5 +1,5 @@
 ---
-title: Sidebar
+title: 'Sidebar'
 ---
 
 ##### Course Facilitators
