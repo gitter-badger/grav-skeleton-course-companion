@@ -28,10 +28,32 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 * Weekly preparations template
 * Blog item template (with separate summary and detailed content views)
 * Page template
+* Sidebar template
 
 #Site Structure
 
-![CC Structure](assets/cc-structure.png)
+```
+/user
+  - /pages
+    - /01.blog | blog.html.twig
+      -/_important-reminders | important_reminders.html.twig
+      -/_preparations | preparations.html.twig
+      -/week-01 | item.html.twig
+      -/week-02 | item.html.twig
+      - etc..
+    - /02.resources | page.html.twig
+      -/page.md
+    - /03.syllabus | page.html.twig
+      -/page.md
+    - /sidebar | sidebar.html.twig
+        -/sidebar.md
+    - /footer | default.html.twig
+        -/sidebar.md
+    - /logo | default.html.twig
+        -/sidebar.md
+    - /mobilemenu | default.html.twig
+        -/sidebar.md
+```
 
 ## Quick Setup for a New Grav Course Companion Site
 
