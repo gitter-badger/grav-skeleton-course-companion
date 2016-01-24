@@ -22,6 +22,13 @@ The **Course Companion** skeleton is intended to support a 13-week face-to-face 
 
 To learn more about how to most effectively use the Grav Course Companion, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
 
+# Page Templates
+
+* Important reminders template
+* Weekly preparations template
+* Blog item template (with separate summary and detailed content views)
+* Page template
+
 #Site Structure
 
 ![CC Structure](assets/cc-structure.png)
