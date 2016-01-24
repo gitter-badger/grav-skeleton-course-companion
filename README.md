@@ -22,20 +22,22 @@ The **Course Companion** skeleton is intended to support a 13-week face-to-face 
 
 To learn more about how to most effectively use the Grav Course Companion, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
 
-# Page Templates
+# Course Companion Page Templates
 
-* Important reminders template
-* Weekly preparations template
-* Blog item template (with separate summary and detailed content views)
-* Page template
-* Sidebar template
+* Blog template (blog.html.twig)
+* Important reminders template (important_reminders.html.twig)
+* Weekly preparations template (preparations.html.twig)
+* Blog item template (blog_item.html.twig)
+* Item template (item.html.twig)
+* Page template (page.html.twig)
+* Sidebar template (sidebar.html.twig)
 
 #Site Structure
 
 ```
 /user
   - /pages
-    - /01.blog | blog.html.twig
+    - /01.blog | blog.html.twig and blog_item.html.twig
       -/_important-reminders | important_reminders.html.twig
       -/_preparations | preparations.html.twig
       -/week-01 | item.html.twig
@@ -48,11 +50,11 @@ To learn more about how to most effectively use the Grav Course Companion, visit
     - /sidebar | sidebar.html.twig
         -/sidebar.md
     - /footer | default.html.twig
-        -/sidebar.md
+        -/default.md
     - /logo | default.html.twig
-        -/sidebar.md
+        -/default.md
     - /mobilemenu | default.html.twig
-        -/sidebar.md
+        -/default.md
 ```
 
 ## Quick Setup for a New Grav Course Companion Site
