@@ -1,6 +1,6 @@
 # Course Companion Skeleton
 
-![CC Screenshot](/assets/thumbnail.jpg)
+![CC Screenshot](/assets/screenshot.jpg)
 
 The **Course Companion** skeleton is intended to support a 13-week face-to-face or blended-format course. It also supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using Grav as an open and collaborative Web platform.
 
