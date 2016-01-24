@@ -2,7 +2,7 @@
 
 ![CC Screenshot](/assets/screenshot.jpg)
 
-The **Course Companion** skeleton is intended to accompany face-to-face, blended or fully online university courses. It also supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using Grav as an open and collaborative Web platform.
+The **Course Companion** skeleton is intended to accompany a face-to-face, blended or fully online university course. It also supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using Grav as an open and collaborative Web platform.
 
 **Why Flip your LMS with Grav?**  
 - To support pedagogical goals unmet by current LMS/platform
