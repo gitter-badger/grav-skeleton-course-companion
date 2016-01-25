@@ -57,7 +57,7 @@ To learn more about how to most effectively use the Grav Course Companion, visit
         -/default.md
 ```
 
-## Quick Setup for a New Grav Course Companion Site
+# Quick Setup for a New Grav Course Companion Site
 
 1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)
 2. Unzip the package into your web root folder (running PHP 5.5.9 or higher).
@@ -65,7 +65,9 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 4. Create your site administrator account.
 5. And you are done!
 
-To fully enjoy the benefits of the workflow that Grav can support, please read the step-by-step guide [Running Grav Locally with MAMP](http://hibbittsdesign.org/blog/posts/running-grav-locally-with-mamp) and [Using Grav with GitHub Desktop (and Deploy)](http://hibbittsdesign.org/blog/posts/using-grav-with-github-and-deploy).
+To fully enjoy the benefits of the highly efficient and collaborative workflow that Grav can support, the following articles are recommended:
+*  [Grav CMS Install Checklist and Steps](http://hibbittsdesign.org/blog/posts/grav-cms-install-checklists-and-steps)
+* [Using Grav with GitHub Desktop (and Deploy)](http://hibbittsdesign.org/blog/posts/using-grav-with-github-and-deploy)
 
 **TIP:** Check out the general [Grav Installation Instructions](http://learn.getgrav.org/basics/installation) for more details on this process.
 
