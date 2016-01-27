@@ -9,3 +9,9 @@
 
 1. [](#bugfix)
     * Updated skeleton info in blueprints file.
+
+# v0.9.12
+## 01/27/2016
+
+1. [](#new)
+    * Enabled menu external links and display of GitHub edit links by default.
