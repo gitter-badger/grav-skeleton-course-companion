@@ -49,11 +49,11 @@ To learn more about how to most effectively use the Grav Course Companion, visit
       -/page.md
     - /sidebar | sidebar.html.twig
         -/sidebar.md
-    - /footer | default.html.twig (bones vanilla theme element)
+    - /footer | default.html.twig (Course Companion Bones Vanilla theme element)
         -/default.md
-    - /logo | default.html.twig (bones vanilla theme element)
+    - /logo | default.html.twig (Course Companion Bones Vanilla theme element)
         -/default.md
-    - /mobilemenu | default.html.twig (bones vanilla theme element)
+    - /mobilemenu | default.html.twig (Course Companion Bones Vanilla theme element)
         -/default.md
 ```
 
