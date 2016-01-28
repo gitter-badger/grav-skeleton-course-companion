@@ -19,5 +19,5 @@
 # v0.9.13
 ## 01/28/2016
 
-1. [](#new)
-    * Updated dependencies file with updated Course Companion theme name
+1. [](#bugfix)
+    * * Shortened theme name to Course Companion BV
