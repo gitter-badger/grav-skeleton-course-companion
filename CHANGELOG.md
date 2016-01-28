@@ -21,3 +21,9 @@
 
 1. [](#bugfix)
     * Shortened theme name to Course Companion BV
+
+# v0.9.14
+## 01/28/2016
+
+1. [](#bugfix)
+    * Updated linked theme in dependencies file
