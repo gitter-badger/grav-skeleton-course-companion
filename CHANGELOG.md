@@ -20,4 +20,4 @@
 ## 01/28/2016
 
 1. [](#bugfix)
-    * * Shortened theme name to Course Companion BV
+    * Shortened theme name to Course Companion BV
