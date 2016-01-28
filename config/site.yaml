@@ -12,7 +12,7 @@ icon:                     # default font awesome icons for preparation and post 
     posts: calendar-o
 github:
     location: page         # menu | page | none
-    tree: https://github.com/hibbitts-design/grav-skeleton-course-companion-bones-vanilla/edit/master/
+    tree: https://github.com/hibbitts-design/grav-skeleton-course-companion-bv/edit/master/
 rssbutton:
     display: true
 # The below are required settings for the base theme, and should not be modified

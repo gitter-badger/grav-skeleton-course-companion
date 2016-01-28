@@ -27,3 +27,9 @@
 
 1. [](#bugfix)
     * Updated linked theme in dependencies file
+
+# v0.9.15
+## 01/28/2016
+
+1. [](#bugfix)
+    * Updated site.yaml file with revised GitHub repo
