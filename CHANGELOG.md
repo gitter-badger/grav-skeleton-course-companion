@@ -15,3 +15,9 @@
 
 1. [](#new)
     * Enabled menu external links and display of GitHub edit links by default.
+
+# v0.9.13
+## 01/28/2016
+
+1. [](#new)
+    * Updated dependencies file with updated Course Companion theme name

@@ -15,7 +15,7 @@ home:
   alias: /blog
   hide_in_urls: false
 pages:
-  theme: course-companion-bones-vanilla
+  theme: course-companion-bv
   order:
     by: default
     dir: asc
