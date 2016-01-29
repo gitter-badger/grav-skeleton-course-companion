@@ -38,10 +38,12 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 
 ## Quick Install (Web server only)
 **Pre-flight Checklist**  
+
 1. Confirm Web server PHP version (PHP 5.5.9 or higher)
 2. Web server login credentials (username and password)
 
 **Installation Steps**  
+
 1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or from [hibbittsdesign.org](http://hibbittsdesign.org/blog/posts/grav-course-companion-early-release-now-available/grav-skeleton-course-companion-bv-prototype.zip)  
 2. Unzip the package onto your desktop  
 3. Copy the entire Grav Course Companion folder to your Web server  
