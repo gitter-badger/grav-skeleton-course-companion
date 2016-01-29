@@ -13,15 +13,16 @@ The **Course Companion** skeleton is intended to accompany a face-to-face, blend
 ## Why Use a Modern flat-file CMS?
 As an open source modern flat-file CMS, Grav offers a distinct set of advantages to Web-savvy educators looking to move beyond their institutional LMS:
 * Modern means...
+  * Modern PHP code (i.e. reliability, speed, extensibility, etc.)
   * Use of current standards (i.e. Markdown, Twig, YAML, etc.)
   * Modular/customizable content chunks (i.e. reuse of content)
   * Further separation of content (i.e. files) from presentation
 * Flat-file means...
   * No database means less (or no) IT involvement needed
   * Content stored in text files rather than in a database
-  * In many cases, this translates into faster page access times
-  * Takes full advantage of the collaborative ecosystem now available (i.e. GitHub, GitLab, etc.)
+  * Takes full advantage of the collaborative ecosystem now available (i.e. GitHub)
   * Increased portability, as moving a site now only requires simply copying files to another location
+  * All template and content files are 100% version controllable
 
 ## Features
 * A complete ready-to-run Grav package (open source)
