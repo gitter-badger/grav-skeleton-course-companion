@@ -49,7 +49,7 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 3. Copy the entire Grav Course Companion folder to your Web server  
 4. Point your browser to the Web server folder  
 5. Create your site administrator account when prompted  
-6. And you're done!  
+6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)
 
 ## Recommended Install (Desktop + Server)
 With the flat-file (no database) nature of Grav, there are lots of benefits of installing Grav on your computer and then having your site files mirrored onto a Web server:
