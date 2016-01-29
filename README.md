@@ -24,7 +24,7 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
   * Increased portability, as moving a site now only requires simply copying files to another location
   * All template and content files are 100% version controllable
 
-## Features
+## Course Companion Features
 * A complete ready-to-run Grav package (open source)
 * Blog-format, with important reminders & preparations areas
 * Site pages can be easily added/removed/changed
