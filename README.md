@@ -62,6 +62,7 @@ With the flat-file (no database) nature of Grav, there are lots of benefits of i
 _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a flipped-LMS approach._
 
 **Pre-flight Checklist**  
+
 1. Confirm Web server PHP version (PHP 5.5.9 or higher)  
 2. Web server login credentials (username and password)  
 3. Download and install MAMP   ([https://www.mamp.info/](https://www.mamp.info/))  
@@ -70,6 +71,7 @@ _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a 
 6. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)), FTPploy([https://ftploy.com/](https://ftploy.com/)), etc.)  
 
 **Desktop Installation Steps**  
+
 1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or from [hibbittsdesign.org](http://hibbittsdesign.org/blog/posts/grav-course-companion-early-release-now-available/grav-skeleton-course-companion-bv-prototype.zip)  
 2. Copy the entire Grav Course Companion folder to your 'Documents' folder  
 3. Launch MAMP  
