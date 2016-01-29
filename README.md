@@ -41,12 +41,12 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 2. Web server login credentials (username and password)  
 
 **Installation Steps**  
-1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)
-2. Unzip the package onto your desktop
-3. Copy the entire Grav Course Companion folder to your Web server
-4. Point your browser to the Web server folder
-5. Create your site administrator account when prompted
-6. And you're done! (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
+1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)  
+2. Unzip the package onto your desktop  
+3. Copy the entire Grav Course Companion folder to your Web server  
+4. Point your browser to the Web server folder  
+5. Create your site administrator account when prompted  
+6. And you're done!  
 
 ## Recommended Install (Desktop + Server)
 With the flat-file (no database) nature of Grav, there are lots of benefits of installing Grav on your computer and then having your site files mirrored onto a Web server:
