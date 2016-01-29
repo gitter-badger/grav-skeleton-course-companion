@@ -38,7 +38,6 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 
 ## Quick Install (Web server only)
 **Pre-flight Checklist**  
-
 1. Confirm Web server PHP version (PHP 5.5.9 or higher)
 2. Web server login credentials (username and password)
 
