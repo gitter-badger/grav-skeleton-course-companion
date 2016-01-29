@@ -7,6 +7,7 @@ The **Course Companion** skeleton is intended to accompany a face-to-face, blend
 * To increase capability of access, sharing and collaboration
 * To deliver a better student (and facilitator) experience
 
+## Course Companion Screenshot
 ![Cource Companion Screenshot](/assets/screenshot.jpg)  
 _Figure 1. Grav course companion screenshot.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bv/](http://demo.hibbittsdesign.org/grav-course-companion-bv/)_
 
