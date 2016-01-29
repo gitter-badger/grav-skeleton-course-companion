@@ -9,7 +9,7 @@ The **Course Companion** skeleton is intended to accompany a face-to-face, blend
 
 ## Course Companion Screenshot
 ![Cource Companion Screenshot](/assets/screenshot-github.png)  
-_Figure 1. Grav course companion screenshot.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bv/](http://demo.hibbittsdesign.org/grav-course-companion-bv/)_
+_Figure 1. Example Grav Course Companion website, with GitHub collaborative editing enabled and Olark instant chat installed.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bv/](http://demo.hibbittsdesign.org/grav-course-companion-bv/)_
 
 ## Why Use a Modern flat-file CMS?
 As an open source modern flat-file CMS, Grav offers a distinct set of advantages to Web-savvy educators looking to move beyond their institutional LMS:
