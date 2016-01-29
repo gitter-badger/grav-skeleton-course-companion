@@ -37,8 +37,8 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 
 ## Quick Install (Web server only)
 **Pre-flight Checklist**  
-1.  Confirm Web server PHP version (PHP 5.5.9 or higher)
-2.  Web server login credentials (username and password)
+1. Confirm Web server PHP version (PHP 5.5.9 or higher)  
+2. Web server login credentials (username and password)  
 
 **Installation Steps**  
 1.  Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)
