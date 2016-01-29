@@ -87,15 +87,6 @@ Once you have confirmed that Grav is running locally on your computer, the final
 * Page template (page.html.twig)
 * Sidebar template (sidebar.html.twig)
 
-## Course Companion Page Templates
-* Blog template (blog.html.twig)
-* Important reminders template (important_reminders.html.twig)
-* Weekly preparations template (preparations.html.twig)
-* Blog item template (blog_item.html.twig)
-* Item template (item.html.twig)
-* Page template (page.html.twig)
-* Sidebar template (sidebar.html.twig)
-
 ## Site Structure
 ```
 /user
