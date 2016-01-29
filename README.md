@@ -152,7 +152,7 @@ rssbutton:
 | icon  | preparations    | Change the default font awesome icon for the preparation area on the home page. |
 | icon  | posts          | Change the default font awesome icon for the weekly blog posts (i.e. weekly summaries).           |
 | rssbutton  | display       | Can be set to `true` or `false`. When set to `true`, it displays RSS buttons on the sidebar for each page. |
-| github  | enabled       | Can be set to `true` or `false`. When set to `true`, it generates the **Edit this page** link to GitHub for each page. |
+| github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
 
 ---
