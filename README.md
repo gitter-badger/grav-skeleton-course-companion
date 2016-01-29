@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/badge/version-v0.9.15-green.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-companion/releases)
 
-[![Demo](https://img.shields.io/badge/Demo-Course-Companion-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-course-companion-bv/)
+[![Demo](https://img.shields.io/badge/Demo-CourseCompanion-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-course-companion-bv/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/CaribThemes/grav-theme-pricklypear/blob/master/LICENSE.md)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear)
 
