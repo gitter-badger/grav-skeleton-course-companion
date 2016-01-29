@@ -41,7 +41,7 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 2. Web server login credentials (username and password)  
 
 **Installation Steps**  
-1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)  
+1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or from [hibbittsdesign.org](http://hibbittsdesign.org/blog/posts/grav-course-companion-early-release-now-available/grav-skeleton-course-companion-bv-prototype.zip)  
 2. Unzip the package onto your desktop  
 3. Copy the entire Grav Course Companion folder to your Web server  
 4. Point your browser to the Web server folder  
@@ -67,7 +67,7 @@ _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a 
 6. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)), FTPploy([https://ftploy.com/](https://ftploy.com/)), etc.)  
 
 **Desktop Installation Steps**  
-1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)  
+1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or from [hibbittsdesign.org](http://hibbittsdesign.org/blog/posts/grav-course-companion-early-release-now-available/grav-skeleton-course-companion-bv-prototype.zip)  
 2. Copy the entire Grav Course Companion folder to your 'Documents' folder  
 3. Launch MAMP  
 4. Change the 'Document Root' MAMP preferences setting to your Grav folder (within 'Documents')  
