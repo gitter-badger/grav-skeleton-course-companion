@@ -1,6 +1,6 @@
 # Course Companion Skeleton
 
-![Cource Companion Screenshot](/assets/screenshot.jpg)
+![Cource Companion Screenshot](/assets/screenshot.jpg)  
 _Figure 1. Grav course companion screenshot.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bv/](http://demo.hibbittsdesign.org/grav-course-companion-bv/)_
 
 The **Course Companion** skeleton is intended to accompany a face-to-face, blended or fully online university course. It also supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using Grav as an open and collaborative Web platform.
@@ -58,7 +58,7 @@ With the flat-file (no database) nature of Grav, there are lots of benefits of i
 * Store your site files on a Git service (i.e. GitHub) to better track your development and enable anywhere, anytime editing of your site
 * Enable others (i.e. students, fellow instructors, colleagues, etc.) to collaboratively contribute to the site, including both site content _and_ code  
 
-![Grav recommended install using Grav, GitHub, and Deploy to support a flipped-LMS approach](/assets/flipped-lms-grav-github-deploy-2.png)
+![Grav recommended install using Grav, GitHub, and Deploy to support a flipped-LMS approach](/assets/flipped-lms-grav-github-deploy-2.png)  
 _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a flipped-LMS approach._
 
 **Pre-flight Checklist**  
