@@ -37,16 +37,16 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 
 ## Quick Install (Web server only)
 **Pre-flight Checklist**  
-1. Confirm Web server PHP version (PHP 5.5.9 or higher)
-1. Web server login credentials (username and password)
+1.  Confirm Web server PHP version (PHP 5.5.9 or higher)
+2.  Web server login credentials (username and password)
 
 **Installation Steps**  
-1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)
-1. Unzip the package onto your desktop
-1. Copy the entire Grav Course Companion folder to your Web server
-1. Point your browser to the Web server folder
-1. Create your site administrator account when prompted
-1. And you're done! (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
+1.  Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)
+2.  Unzip the package onto your desktop
+3.  Copy the entire Grav Course Companion folder to your Web server
+4.  Point your browser to the Web server folder
+5.  Create your site administrator account when prompted
+6.  And you're done! (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
 
 ## Recommended Install (Desktop + Server)
 With the flat-file (no database) nature of Grav, there are lots of benefits of installing Grav on your computer and then having your site files mirrored onto a Web server:
@@ -59,12 +59,12 @@ With the flat-file (no database) nature of Grav, there are lots of benefits of i
 _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a flipped-LMS approach._
 
 **Pre-flight Checklist**  
-1. Confirm Web server PHP version (PHP 5.5.9 or higher)
-1. Web server login credentials (username and password)
-1. Download and install MAMP ([https://www.mamp.info/](https://www.mamp.info/))
-1. Git server account (e.g. GitHub ([https://github.com/](https://github.com)) or local GitLab or Gogs app, etc.)
-1. Download and install GitHub Desktop ([https://desktop.github.com/](https://desktop.github.com/))
-1. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)), FTPploy([https://ftploy.com/](https://ftploy.com/)), etc.)
+1. Confirm Web server PHP version (PHP 5.5.9 or higher)  
+1. Web server login credentials (username and password)  
+1. Download and install MAMP   ([https://www.mamp.info/](https://www.mamp.info/))
+1. Git server account (e.g. GitHub ([https://github.com/](https://github.com)) or local GitLab or Gogs app, etc.)  
+1. Download and install GitHub Desktop ([https://desktop.github.com/](https://desktop.github.com/))  
+1. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)), FTPploy([https://ftploy.com/](https://ftploy.com/)), etc.)  
 
 **Desktop Installation Steps**  
 1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)
