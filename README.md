@@ -1,6 +1,6 @@
 # Course Companion Skeleton
 
-[![version](https://img.shields.io/badge/version-v1.0.2-green.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-companion/releases)
+[![version](https://img.shields.io/badge/version-v0.9.15-green.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-companion/releases)
 
 The **Course Companion** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
