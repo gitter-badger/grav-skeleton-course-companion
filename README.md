@@ -60,22 +60,22 @@ _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a 
 
 **Pre-flight Checklist**  
 1. Confirm Web server PHP version (PHP 5.5.9 or higher)  
-1. Web server login credentials (username and password)  
-1. Download and install MAMP   ([https://www.mamp.info/](https://www.mamp.info/))
-1. Git server account (e.g. GitHub ([https://github.com/](https://github.com)) or local GitLab or Gogs app, etc.)  
-1. Download and install GitHub Desktop ([https://desktop.github.com/](https://desktop.github.com/))  
-1. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)), FTPploy([https://ftploy.com/](https://ftploy.com/)), etc.)  
+2. Web server login credentials (username and password)  
+3. Download and install MAMP   ([https://www.mamp.info/](https://www.mamp.info/))  
+4. Git server account (e.g. GitHub ([https://github.com/](https://github.com)) or local GitLab or Gogs app, etc.)  
+5. Download and install GitHub Desktop ([https://desktop.github.com/](https://desktop.github.com/))  
+6. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)), FTPploy([https://ftploy.com/](https://ftploy.com/)), etc.)  
 
 **Desktop Installation Steps**  
-1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)
-1. Copy the entire Grav Course Companion folder to your 'Documents' folder
-1. Launch MAMP
-1. Change the 'Document Root' MAMP preferences setting to your Grav folder (within 'Documents')
-1. Press the MAMP 'Start Servers' button
-1. Enter 'localhost:8888' as the URL in your Web Browser
-1. Choose the displayed Grav folder name
-1. Create your site administrator account when prompted
-1. And you're done! (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
+1. Download the most current release at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons)  
+2. Copy the entire Grav Course Companion folder to your 'Documents' folder  
+3. Launch MAMP  
+4. Change the 'Document Root' MAMP preferences setting to your Grav folder (within 'Documents')  
+5. Press the MAMP 'Start Servers' button  
+6. Enter 'localhost:8888' as the URL in your Web Browser  
+7. Choose the displayed Grav folder name  
+8. Create your site administrator account when prompted  
+9. And you're done!  
 
 Once you have confirmed that Grav is running locally on your computer, the final step is to create a Git server repository to store your site files and setup an automatic deployment service to push any changed files to your Web server. An example step-by-step walkthrough this process is available in the article [Using Grav with GitHub Desktop (and Deploy)](http://hibbittsdesign.org/blog/posts/using-grav-with-github-and-deploy).
 
