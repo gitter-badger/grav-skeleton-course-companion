@@ -31,7 +31,7 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
 * Sidebar is a simple markdown file, which can also contain HTML
 * URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-companion-bv/blog/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-companion-bv/blog/week-03/onlydisplaypagecontent:true)
 * External links are automatically opened in a new Tab/Window
-* Built-in support for entire site to be maintained on GitHub
+* Built-in support for entire site to be collaboratively maintained on GitHub
 * Since everything is built with Grav it can be _entirely_ customized
 
 To learn more about how to most effectively use the Grav Course Companion, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
