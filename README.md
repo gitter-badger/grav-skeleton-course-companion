@@ -4,12 +4,12 @@
 
 The **Course Companion** skeleton is intended to accompany a face-to-face, blended or fully online university course. It also supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using Grav as an open and collaborative Web platform.
 
-# Why Flip your LMS with Grav?
+## Why Flip your LMS with Grav?
 * To support pedagogical goals unmet by current LMS/platform
 * To increase capability of access, sharing and collaboration
 * To deliver a better student (and facilitator) experience
 
-# Why Use a Modern flat-file CMS?
+## Why Use a Modern flat-file CMS?
 As an open source modern flat-file CMS, Grav offers a distinct set of advantages to Web-savvy educators looking to move beyond their institutional LMS:
 * Modern means...
   * Use of current standards (i.e. Markdown, Twig, YAML, etc.)
@@ -22,7 +22,7 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
   * Takes full advantage of the collaborative ecosystem now available (i.e. GitHub, GitLab, etc.)
   * Increased portability, as moving a site now only requires simply copying files to another location
 
-# Features
+## Features
 * A complete ready-to-run Grav package (open source)
 * Blog-format, with important reminders & preparations areas
 * Site pages can be easily added/removed/changed
@@ -34,7 +34,7 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
 
 To learn more about how to most effectively use the Grav Course Companion, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
 
-# Quick Install (Web server only)
+## Quick Install (Web server only)
 **Pre-flight Checklist**  
 1. Confirm Web server PHP version (PHP 5.5.9 or higher)
 1. Web server login credentials (username and password)
@@ -47,7 +47,7 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 1. Create your site administrator account when prompted
 1. And you're done! (press the <i class="fa fa-arrow-circle-right"></i> icon in the Admin Panel to preview site)
 
-# Recommended Install (Desktop + Server)
+## Recommended Install (Desktop + Server)
 With the flat-file (no database) nature of Grav, there are lots of benefits of installing Grav on your computer and then having your site files mirrored onto a Web server:
 * Always have access to your site, regardless of Web server status
 * Develop and test changes to your site privately without any downtime of the live site
@@ -78,7 +78,7 @@ Grav recommended install using Grav, GitHub, and Deploy to support a flipped-LMS
 
 Once you have confirmed that Grav is running locally on your computer, the final step is to create a Git server repository to store your site files and setup an automatic deployment service to push any changed files to your Web server. An example step-by-step walkthrough this process is available in the article [Using Grav with GitHub Desktop (and Deploy)](http://hibbittsdesign.org/blog/posts/using-grav-with-github-and-deploy).
 
-# Course Companion Page Templates
+## Course Companion Page Templates
 * Blog template (blog.html.twig)
 * Important reminders template (important_reminders.html.twig)
 * Weekly preparations template (preparations.html.twig)
@@ -87,7 +87,7 @@ Once you have confirmed that Grav is running locally on your computer, the final
 * Page template (page.html.twig)
 * Sidebar template (sidebar.html.twig)
 
-# Course Companion Page Templates
+## Course Companion Page Templates
 * Blog template (blog.html.twig)
 * Important reminders template (important_reminders.html.twig)
 * Weekly preparations template (preparations.html.twig)
@@ -96,7 +96,7 @@ Once you have confirmed that Grav is running locally on your computer, the final
 * Page template (page.html.twig)
 * Sidebar template (sidebar.html.twig)
 
-#Site Structure
+## Site Structure
 ```
 /user
   - /pages
@@ -120,7 +120,7 @@ Once you have confirmed that Grav is running locally on your computer, the final
         -/default.md
 ```
 
-# Configuration
+## Configuration
 
 The 'site.yaml' file located in the '/user/config/' folder contains the following default values:
 ```
@@ -147,15 +147,12 @@ rssbutton:
 |---------|---------------|------------------------------------------------------------------------------------------------------------------------|
 | title   |               | The course number/id, to be displayed at the top of every page.                                                      |
 | metadata  |  description | The short description of the course companion site                                       |
-| displaymenuentries  |  enabled | Can be set to `true` or `false`. When set to `true`, all defined menu items are added to the navbar.                                       
-|
+| displaymenuentries  |  enabled | Can be set to `true` or `false`. When set to `true`, all defined menu items are added to the navbar.                                       |
 | menu  |  text | Text label for external links to be included on navbar                                       |
 | menu  |  icon | Font awesome icon code for external link (optional)                                        |
-| menu  |  url | URL for external link
-|                                       |
-| icon  | preparations    | Change the default font awesome icon for the preparation area on the home page.
-|
-| icon  | posts          | Change the default font awesome icon for the weekly blog posts (i.e. weekly summaries).            |
+| menu  |  url | URL for external link|                                    
+| icon  | preparations    | Change the default font awesome icon for the preparation area on the home page. |
+| icon  | posts          | Change the default font awesome icon for the weekly blog posts (i.e. weekly summaries).           |
 | rssbutton  | display       | Can be set to `true` or `false`. When set to `true`, it displays RSS buttons on the sidebar for each page. |
 | github  | enabled       | Can be set to `true` or `false`. When set to `true`, it generates the **Edit this page** link to GitHub for each page. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
