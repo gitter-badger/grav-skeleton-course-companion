@@ -8,7 +8,7 @@ The **Course Companion** skeleton is intended to accompany a face-to-face, blend
 * To deliver a better student (and facilitator) experience
 
 ## Course Companion Screenshot
-![Cource Companion Screenshot](/assets/screenshot.jpg)  
+![Cource Companion Screenshot](/assets/screenshot-github.png)  
 _Figure 1. Grav course companion screenshot.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bv/](http://demo.hibbittsdesign.org/grav-course-companion-bv/)_
 
 ## Why Use a Modern flat-file CMS?
