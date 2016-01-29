@@ -8,7 +8,7 @@ The **Course Companion** skeleton is intended to accompany a face-to-face, blend
 * To deliver a better student (and facilitator) experience
 
 ## Course Companion Screenshot
-![Cource Companion Screenshot](/assets/screenshot-github.png)  
+![Cource Companion Screenshot](/assets/screenshot-github-1.png)  
 _Figure 1. Example Grav Course Companion website, with GitHub collaborative editing enabled and Olark instant chat installed.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bv/](http://demo.hibbittsdesign.org/grav-course-companion-bv/)_
 
 ## Why Use a Modern flat-file CMS?
